@@ -1,8 +1,8 @@
 
-Transforme a tabela produto em uma classe separadas
+Transforme a tabela Carro em uma classe separada
 no pacote br.com.impacta.models
 
- Criar a classe produto agora utilizando o encapsulamento.
+ Criar a classe Carro produto agora utilizando o encapsulamento.
  Atributos privados e os metodos get e set para cada atributo.
  
  Tabela de Carro
