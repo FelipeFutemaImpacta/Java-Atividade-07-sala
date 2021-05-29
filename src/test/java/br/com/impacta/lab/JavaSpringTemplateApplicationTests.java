@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import br.com.impacta.models.*;
 import org.junit.Test;
 
-class JavaSpringTemplateApplicationTests {
+public class JavaSpringTemplateApplicationTests {
 
 	@Test
 	public void shouldHaveCarwithEncapsulatePrinciple() {
